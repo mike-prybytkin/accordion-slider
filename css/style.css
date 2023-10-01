@@ -30,7 +30,7 @@
 
 .accordion-slide.active {
   border: 2px solid rgb(113, 107, 107);
-  border-top: transparent;
+  border-top: 2px solid transparent;
   border-radius: 30px 30px 10px 10px;
 }
 
